@@ -34,7 +34,7 @@ int main()
 	 return(0);
 }
 
-
+// code no :2
 #include<stdio.h>
 int main()
 {
